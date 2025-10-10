@@ -1,0 +1,28 @@
+# Xcode
+DerivedData/
+*.xcworkspace
+*.xccheckout
+*.xcodeproj/project.xcworkspace/
+*.xcodeproj/xcuserdata/
+*.xcodeproj/xcshareddata/
+
+# Swift Package Manager
+.build/
+Packages/
+
+# macOS
+.DS_Store
+
+# Playground
+timeline.xctimeline
+playground.xcworkspace
+
+# User-specific files
+*.swp
+*.swm
+*.swo
+*.swp
+
+# Logs
+*.log
+
